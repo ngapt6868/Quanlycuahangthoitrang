@@ -1,0 +1,53 @@
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.exe.config
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.exe
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.pdb
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csprojAssemblyReference.cache
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Dangnhap.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Giaodien.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Properties.Resources.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csproj.GenerateResource.cache
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.exe
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.pdb
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Danhmuc.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.AddSanpham.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.EditSanpham.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Hoadon.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Sanpham.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.exe.config
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.exe
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.pdb
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csprojAssemblyReference.cache
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Dangnhap.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Danhmuc.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Giaodien.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Hoadon.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Properties.Resources.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.AddSanpham.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.EditSanpham.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.sanpham.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Taikhoan.resources
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csproj.GenerateResource.cache
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csproj.CoreCompileInputs.cache
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.exe
+C:\Users\DUC\Downloads\PhanTuyetNga\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.pdb
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.exe.config
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.exe
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\bin\Debug\PhanTuyetNga.pdb
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csprojAssemblyReference.cache
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Dangnhap.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Danhmuc.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Giaodien.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Hoadon.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Properties.Resources.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.AddSanpham.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.EditSanpham.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.sanpham.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Taikhoan.resources
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.csproj.GenerateResource.cache
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.exe
+D:\BTL C#\Lunu\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.pdb
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Admin.Doanhthu.Doanhthu.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Taikhoan.Thongtintaikhoan.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Taikhoan.Suataikoan.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Taikhoan.Doipass.resources
+D:\BTL C#\PhanTuyetNga\PhanTuyetNga\obj\Debug\PhanTuyetNga.Hoadon.Inhoadon.resources

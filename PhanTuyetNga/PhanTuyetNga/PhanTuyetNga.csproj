@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4363DA9-DDE7-4510-A75A-257E143786AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PhanTuyetNga</RootNamespace>
+    <AssemblyName>PhanTuyetNga</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Doanhthu\bll_Doanhthu.cs" />
+    <Compile Include="Doanhthu\Doanhthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doanhthu\Doanhthu.Designer.cs">
+      <DependentUpon>Doanhthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonModel.cs" />
+    <Compile Include="Hoadon\Inhoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoadon\Inhoadon.Designer.cs">
+      <DependentUpon>Inhoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taikhoan\BLL_taikhoan.cs" />
+    <Compile Include="Dangnhap\Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangnhap\Dangnhap.Designer.cs">
+      <DependentUpon>Dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Danhmuc\BLL_danhmuc.cs" />
+    <Compile Include="Danhmuc\Danhmuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Danhmuc\Danhmuc.Designer.cs">
+      <DependentUpon>Danhmuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dal.cs" />
+    <Compile Include="Hoadon\hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoadon\hoadon.Designer.cs">
+      <DependentUpon>hoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giaodien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giaodien.Designer.cs">
+      <DependentUpon>Giaodien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoadon\bll_hoadon.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sanpham\AddSanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanpham\AddSanpham.Designer.cs">
+      <DependentUpon>AddSanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanpham\BLL_Sanpham.cs" />
+    <Compile Include="Sanpham\EditSanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanpham\EditSanpham.Designer.cs">
+      <DependentUpon>EditSanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanpham\sanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanpham\sanpham.Designer.cs">
+      <DependentUpon>sanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taikhoan\Doipass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taikhoan\Doipass.Designer.cs">
+      <DependentUpon>Doipass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taikhoan\Suataikoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taikhoan\Suataikoan.Designer.cs">
+      <DependentUpon>Suataikoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taikhoan\Thongtintaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taikhoan\Thongtintaikhoan.Designer.cs">
+      <DependentUpon>Thongtintaikhoan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Doanhthu\Doanhthu.resx">
+      <DependentUpon>Doanhthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dangnhap\Dangnhap.resx">
+      <DependentUpon>Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Danhmuc\Danhmuc.resx">
+      <DependentUpon>Danhmuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoadon\hoadon.resx">
+      <DependentUpon>hoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giaodien.resx">
+      <DependentUpon>Giaodien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoadon\Inhoadon.resx">
+      <DependentUpon>Inhoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Sanpham\AddSanpham.resx">
+      <DependentUpon>AddSanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanpham\EditSanpham.resx">
+      <DependentUpon>EditSanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanpham\sanpham.resx">
+      <DependentUpon>sanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taikhoan\Doipass.resx">
+      <DependentUpon>Doipass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taikhoan\Suataikoan.resx">
+      <DependentUpon>Suataikoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taikhoan\Thongtintaikhoan.resx">
+      <DependentUpon>Thongtintaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="image\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
